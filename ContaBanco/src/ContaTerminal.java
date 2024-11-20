@@ -7,5 +7,11 @@ public class ContaTerminal {
         //Obter pela scanner os valores digitados no terminal
 
         //Exibir a Mensagem Conta Criada
+
+        //Informações q serão solicitadas (Numero conta (int), Agencia (txt), Nome Cliente(txt), Saldo(double))
+
+        /*SAIDA: Olá [Nome do Cliente] obrigado por criar uma conta em nosso banco, sua agência é [Agencia], 
+        conta [Numero Conta] e seu saldo [Saldo] já está disponivel para saque.
+        */
     }
 }
